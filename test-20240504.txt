@@ -1,5 +1,6 @@
 test
 test-20240505 children's day
+test-manual
 
 現在、最も使いやすい大規模言語モデル(LLM)の一つは、OpenAIによって開発されたGPT-4です。
 
